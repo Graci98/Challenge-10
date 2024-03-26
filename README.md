@@ -21,7 +21,7 @@
 ![Elbow_Curve](Images/Elbow_Curve.png)
 
 
-*Elbow Curve PCA
+* Elbow Curve PCA
 ![Elbow_Curve1](Images/Elbow_Curve1.png)
 
 
