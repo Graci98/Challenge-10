@@ -3,7 +3,7 @@
 ![Crypto_Picture](Images/crypto_picture.png)
 
 ## Overview
-#### This challenge we will cluster cryptocurrencies by their performance in different time periods. You’ll then plot the results so that you can visually show the performance to the board.
+#### This challenge we will cluster cryptocurrencies by their performance in different time periods. We will then plot the results so that you can visually show the performance to the board.
 
 ## Instructions
 1. Import the Data (provided in the starter code)
@@ -14,3 +14,7 @@
 6. Find the Best Value for k Using the PCA Data
 7. Cluster the Cryptocurrencies with K-means Using the PCA Data
 8. Visualize and Compare the Results
+
+## Getting Started
+
+### Step 1: Import the libraries pandas, hvplot.pandas, pathlib, sklearn.cluster, sklearn.decomposition, sklearn.preprocessing and csv file `crypto_market_data`.
