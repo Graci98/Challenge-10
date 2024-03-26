@@ -17,26 +17,25 @@
 
 ## Getting Started
 
-#### Step 1: Import the libraries pandas, hvplot.pandas, pathlib, sklearn.cluster, sklearn.decomposition, sklearn.preprocessing and csv file `crypto_market_data`.
-
-#### Step 2: Prepare the data 
-
-
+* Elbow Curve
 ![Elbow_Curve](Images/Elbow_Curve.png)
 
 
-
+*Elbow Curve PCA
 ![Elbow_Curve1](Images/Elbow_Curve1.png)
 
 
 
-
+* Price Change Scatter Plot
 ![price_change](Images/Price_change_scatter_plot.png)
 
 
 
-
+* Price Change Scatter Plot PCA
 ![Crypto_Picture](Images/pca_scatter_plot.png)
+
+## Results
+#### After visually analyzing the cluster analysis results, It is evident that employing K-Means to cluster the data with a reduced number of features had a significant impact.
 
 
 
