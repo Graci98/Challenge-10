@@ -22,7 +22,23 @@
 #### Step 2: Prepare the data 
 
 
-![Crypto_Picture](Images/crypto_picture.png)
-![Crypto_Picture](Images/crypto_picture.png)
-![Crypto_Picture](Images/crypto_picture.png)
-![Crypto_Picture](Images/crypto_picture.png)
+![Elbow_Curve](Images/Elbow_Curve.png)
+
+
+
+![Elbow_Curve1](Images/Elbow_Curve1.png)
+
+
+
+
+![price_change](Images/Price_change_scatter_plot.png)
+
+
+
+
+![Crypto_Picture](Images/pca_scatter_plot.png)
+
+
+
+
+
