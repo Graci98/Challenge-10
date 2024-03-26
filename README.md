@@ -17,4 +17,12 @@
 
 ## Getting Started
 
-### Step 1: Import the libraries pandas, hvplot.pandas, pathlib, sklearn.cluster, sklearn.decomposition, sklearn.preprocessing and csv file `crypto_market_data`.
+#### Step 1: Import the libraries pandas, hvplot.pandas, pathlib, sklearn.cluster, sklearn.decomposition, sklearn.preprocessing and csv file `crypto_market_data`.
+
+#### Step 2: Prepare the data 
+
+
+![Crypto_Picture](Images/crypto_picture.png)
+![Crypto_Picture](Images/crypto_picture.png)
+![Crypto_Picture](Images/crypto_picture.png)
+![Crypto_Picture](Images/crypto_picture.png)
